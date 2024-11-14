@@ -79,10 +79,10 @@ materials:
       url:          https://public-yum.oracle.com/repo/OracleLinux/OL7/latest/x86_64/getPackage/compat-libcap1-1.10-7.el7.x86_64.rpm
 
     - name:         "Oracle ASMSUPPORT RPM"
-      archive:      oracleasm-support-2.1.12-1.el8.x86_64.rpm
+      archive:      oracleasm-support-3.0.0-6.el8.x86_64.rpm
       extract:      false
       checksum:     A60037BEECBF5CC95957CB04ED7CDF511867FE8F65CFD014033FCEFC3BB29C0C
-      url:          https://public-yum.oracle.com/repo/OracleLinux/OL8/addons/x86_64/getPackage/oracleasm-support-2.1.12-1.el8.x86_64.rpm
+      url:          https://yum.oracle.com/repo/OracleLinux/OL8/addons/x86_64/getPackage/oracleasm-support-3.0.0-6.el8.x86_64.rpm
 
     - name:         "Oracle ASMLIB RPM"
       archive:      oracleasmlib-2.0.17-1.el8.x86_64.rpm
